@@ -9,7 +9,7 @@
 
 ---
 
-[![C Standard](https://img.shields.io/badge/C11-compliant-blue)](https://en.cppreference.com/w/c)
+![C Standard](https://img.shields.io/badge/C--Standard-C11-blue)
 [![Build Status](https://img.shields.io/badge/build-manual-lightgrey)]()
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux-brightgreen)]()
 
